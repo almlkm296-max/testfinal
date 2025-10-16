@@ -1,0 +1,9 @@
+Package: com.welcome-tool
+Name: welcome-tool
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: هدية مقدمة من aslam-iQ
+Maintainer: aslam-iQ
+Author: aslam-iQ
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
